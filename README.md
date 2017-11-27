@@ -1,4 +1,5 @@
-# curso-python
+# curso de Python desde Cero
+### _Orientado a Machine Learning_
 Recursos y tracking del Curso de Python desde cero orientado a Machine Learning
 
 - [26 Nov](https://www.meetup.com/es-ES/IV-DEVS/events/245254757/) **Python, parte 1**: _introducción a Python y su ecosistema_
