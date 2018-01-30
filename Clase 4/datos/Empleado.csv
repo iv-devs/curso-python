@@ -1,0 +1,9 @@
+Nombre;Apellido1;Apellido2;Dni;FechaNac;Dirección;Sexo;Sueldo;SuperDni;Dno
+José;Pérez;Pérez;123456789;01-09-1965;Eloy I, 98;H;30000;333445555;5
+Alberto;Campos;Sastre;333445555;08-12-1955;Avda. Ríos, 9;H;40000;888665555;5
+Alicia;Jiménez;Celaya;999887777;12-05-1968;Gran Via, 38;M;25000;987654321;4
+Juana;Sainz;Oreja;987654321;20-06-1941;Cerquillas, 67;M;43000;888665555;4
+Fernando;Ojeda;Ordóñez;666884444;15-09-1962;Portilo, s/n;H;38000;333445555;5
+Aurora;Oliva;Avezuela;453453453;31-07-1972;Antón, 6;M;25000;333445555;5
+Luis;Pajares;Morera;987987987;29-03-1969;Enebros, 90;H;25000;987654321;4
+Eduardo;Ochoa;Paredes;888665555;10-11-1937;Las Peñas, 1;H;55000;NULL;1
